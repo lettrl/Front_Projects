@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Bebida</title>
+  <desc id="desc">Copo de bebida com decoração simples.</desc>
+  <rect width="600" height="400" rx="28" fill="#f5faf8"/>
+  <rect x="78" y="86" width="444" height="228" rx="28" fill="#ffffff" stroke="#dfeee3" stroke-width="8"/>
+  <path d="M286 128h28l12 124c2 20-14 40-34 40s-36-20-34-40z" fill="#f97316"/>
+  <rect x="292" y="92" width="16" height="40" rx="8" fill="#2a7f5b"/>
+  <circle cx="300" cy="86" r="18" fill="#215f46"/>
+  <path d="M250 258h100" stroke="#d97706" stroke-width="10" stroke-linecap="round" opacity="0.35"/>
+</svg>

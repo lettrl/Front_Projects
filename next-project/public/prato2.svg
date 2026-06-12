@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Sobremesa</title>
+  <desc id="desc">Sobremesa simples servida com frutas.</desc>
+  <rect width="600" height="400" rx="28" fill="#f5faf8"/>
+  <rect x="70" y="88" width="460" height="224" rx="24" fill="#ffffff" stroke="#dfeee3" stroke-width="8"/>
+  <ellipse cx="300" cy="220" rx="120" ry="68" fill="#fde68a"/>
+  <ellipse cx="300" cy="220" rx="82" ry="42" fill="#fff7ed"/>
+  <circle cx="260" cy="192" r="26" fill="#fb7185"/>
+  <circle cx="306" cy="182" r="22" fill="#f97316"/>
+  <circle cx="342" cy="202" r="18" fill="#22c55e"/>
+</svg>

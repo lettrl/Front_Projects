@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Prato de massa</title>
+  <desc id="desc">Prato simples com massa e molho vermelho.</desc>
+  <rect width="600" height="400" rx="28" fill="#f5faf8"/>
+  <rect x="60" y="80" width="480" height="240" rx="28" fill="#ffffff" stroke="#dfeee3" stroke-width="8"/>
+  <circle cx="300" cy="200" r="92" fill="#e0f2fe"/>
+  <circle cx="300" cy="200" r="62" fill="#ffffff"/>
+  <circle cx="300" cy="200" r="48" fill="#fb7185" opacity="0.9"/>
+  <path d="M240 172c22-18 50-28 60-28 16 0 40 14 58 28" stroke="#f59e0b" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <path d="M240 198c22-18 50-28 60-28 16 0 40 14 58 28" stroke="#f59e0b" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <path d="M240 224c22-18 50-28 60-28 16 0 40 14 58 28" stroke="#f59e0b" stroke-width="12" stroke-linecap="round" fill="none"/>
+</svg>

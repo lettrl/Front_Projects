@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title desc">
+  <title id="title">Mesa de restaurante</title>
+  <desc id="desc">Ilustração simples de uma mesa com prato principal e bebida.</desc>
+  <rect width="900" height="700" rx="32" fill="#f4e8d6"/>
+  <circle cx="150" cy="120" r="90" fill="#fde68a" opacity="0.65"/>
+  <circle cx="760" cy="150" r="120" fill="#fb923c" opacity="0.18"/>
+  <rect x="130" y="360" width="640" height="160" rx="32" fill="#fffaf3" stroke="#e5d3bf" stroke-width="8"/>
+  <rect x="215" y="520" width="36" height="120" rx="16" fill="#8b5e34"/>
+  <rect x="650" y="520" width="36" height="120" rx="16" fill="#8b5e34"/>
+  <rect x="270" y="250" width="150" height="150" rx="28" fill="#ffffff" stroke="#e5d3bf" stroke-width="8"/>
+  <circle cx="345" cy="325" r="50" fill="#f59e0b" opacity="0.9"/>
+  <circle cx="345" cy="325" r="28" fill="#fff7ed"/>
+  <rect x="515" y="235" width="120" height="170" rx="22" fill="#ffffff" stroke="#e5d3bf" stroke-width="8"/>
+  <path d="M550 255h50l-10 86h-30z" fill="#f97316"/>
+  <rect x="570" y="132" width="22" height="112" rx="11" fill="#ffffff" stroke="#e5d3bf" stroke-width="8"/>
+  <circle cx="581" cy="118" r="24" fill="#c2410c"/>
+  <path d="M410 430c55-18 110-18 165 0" stroke="#b45309" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <path d="M250 430h380" stroke="#d97706" stroke-width="8" stroke-linecap="round" opacity="0.35"/>
+</svg>
